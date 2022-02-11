@@ -1,6 +1,6 @@
-import paramExtract.packages.extract as extractor
-from file_finder.simple_file_finder import MetaFinder
-from name_format.extract_core import extract_core_file
+import extract as extractor
+from simple_file_finder import MetaFinder
+from extract_core import extract_core_file
 
 # Django import version
 # from .paramExtract.packages import extract as extractor
